@@ -35,6 +35,7 @@
 
 #include <linux/module.h>
 #include <linux/fs.h>
+#include <uapi/linux/mount.h>
 #ifndef VXEXT_FS
 //#include <linux/msdos_fs.h>
 #endif

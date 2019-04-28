@@ -59,6 +59,7 @@
 #include <linux/blkdev.h>
 #include <asm/unaligned.h>
 #include <linux/iversion.h>
+#include <uapi/linux/mount.h>
 #include "fat.h"
 
 #ifndef CONFIG_FAT_DEFAULT_IOCHARSET
